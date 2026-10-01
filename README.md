@@ -1,16 +1,19 @@
-## Hi there 👋
+# Aadi Jain
 
-<!--
-**Thrizzio/Thrizzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building products with applied AI.
 
-Here are some ideas to get you started:
+I build web applications end-to-end, with a focus on product development, backend systems, and practical AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building
+
+**PhysioEvidence** — AI-powered research assistant for physiotherapists.
+
+**Chronolog** — retrospective time-logging application for understanding how time is actually spent.
+
+### Focus
+
+Full-stack development · Applied AI · RAG · Backend systems
+
+### Links
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
